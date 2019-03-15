@@ -9,5 +9,4 @@ Als je op zo'n menu klikt, dan krijg je ook de beschrijving van het menu te zien
 ![](https://github.com/otak007/restaurant/blob/master/Screenshot_20190313-151205.png)
 ![](https://github.com/otak007/restaurant/blob/master/Screenshot_20190313-151219.png)
 ![](https://github.com/otak007/restaurant/blob/master/Screenshot_20190313-151227.png)
-![](https://github.com/otak007/restaurant/blob/master/Screenshot_20190313-151205.png)
 ![](https://github.com/otak007/restaurant/blob/master/Screenshot_20190313-151234.png)
